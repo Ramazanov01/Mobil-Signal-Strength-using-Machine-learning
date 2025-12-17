@@ -1,0 +1,14 @@
+Feature,Importance
+Longitude,2240
+Latitude,2222
+Data Throughput (Mbps),2138
+Latency (ms),2026
+BB60C Measurement (dBm),1277
+BladeRFxA9 Measurement (dBm),1159
+srsRAN Measurement (dBm),1102
+Hour,1086
+DayOfWeek,711
+Network Type,432
+TimeOfDay,271
+Signal Quality (%),0
+IsWeekend,0

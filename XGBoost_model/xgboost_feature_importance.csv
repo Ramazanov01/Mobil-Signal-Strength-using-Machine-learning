@@ -1,0 +1,14 @@
+Feature,Importance
+srsRAN Measurement (dBm),0.90453404
+BladeRFxA9 Measurement (dBm),0.036920212
+Network Type,0.014358541
+BB60C Measurement (dBm),0.008168421
+Latency (ms),0.0060099675
+Data Throughput (Mbps),0.005693553
+TimeOfDay,0.0053582354
+Hour,0.0050250585
+Longitude,0.004845304
+DayOfWeek,0.0048164953
+Latitude,0.004270126
+Signal Quality (%),0.0
+IsWeekend,0.0

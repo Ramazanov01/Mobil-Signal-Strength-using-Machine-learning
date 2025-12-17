@@ -1,0 +1,16 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# ML models
+*.pkl
+*.joblib
+
+# Build / cache
+build/
+dist/
+
+# Python virtual environment
+venv/
+**/venv/
